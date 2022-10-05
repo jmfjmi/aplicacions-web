@@ -9,3 +9,39 @@
 .imgsimple{
     width: 400px;
 }
+
+table td{
+    border: 1px solid black
+}
+
+.pati{
+    text-align: center;
+}
+
+.semana{
+    background-color: red;
+}
+
+.hora {
+    background-color: blue;
+}
+
+.sistemes{
+    background-color: blueviolet;
+}
+
+.seguretat{
+    background-color:coral
+}
+
+.serveis{
+    background-color: aquamarine;
+}
+
+.EIE{
+    background-color: darkgoldenrod;
+}
+
+.web{
+    background-color: beige;
+}

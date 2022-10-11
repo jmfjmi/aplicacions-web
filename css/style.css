@@ -27,21 +27,21 @@ table td{
 }
 
 .sistemes{
-    background-color: blueviolet;
+    background-color: blueviolet; color:azure; border: 1px solid blue
 }
 
 .seguretat{
-    background-color:coral
+    background-color:coral; color:brown; border: 1px solid red
 }
 
 .serveis{
-    background-color: aquamarine;
+    background-color: aquamarine; color:cadetblue; border: 1px solid aqua
 }
 
 .EIE{
-    background-color: darkgoldenrod;
+    background-color: darkgoldenrod; color:moccasin; border: 1px solid brown
 }
 
 .web{
-    background-color: beige;
+    background-color: beige; color:dimgrey; border: 1px solid wheat
 }

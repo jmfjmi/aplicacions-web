@@ -56,55 +56,87 @@ table td {
     border: 1px solid wheat
 }
 
-.flex{
+.flexbox {
+    border: 1px solid black;
+    padding: 20px;
     display: flex;
+    width: 600px;
+    height: 400px;
+    flex-wrap: wrap;
+    flex-flow: row;
 }
 
-.border{
+.box {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.titol-horari {
+    line-height: 100px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.SMX {
+    line-height: 50px;
+    width: 508px;
+    height: 50px;
+
+}
+
+.container-dies {
+    width: 508px;
+    height: 50px;
+    display: flex;
     border: 1px solid black;
 }
 
-.flexbox{
-    width:640px;
-    height:420px ;
+.dies {
+    width: 102px;
+    height: 50px;
+    line-height: 50px;
+    display: flex;
+    flex-direction: row;
 }
 
-.titol{
-    width:120px;
-    height:80px;
+.horafl {
+    width: 100px;
+    height: 25px;
+    line-height: 25px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
 }
 
-.cap{
-    width:520px;
-    height:80px;
-}
-.titol2{
-    width:520px ;
-    height:40px;
-    
-}
-
-.dilluns{
-    width:100px ;
-    height:40px;
+.container-hora {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 25px;
+    width: 100px;
+    line-height: 25px;
 }
 
-.dimarts{
-    width:100px ;
-    height:40px;
+.c2 {
+    height: 50px;
+    line-height: 50px;
+    width: 100px;
 }
 
-.dimecres{
-    width:100px ;
-    height:40px;
+.c1 {
+    height: 24px;
+    line-height: 25px;
+    width: 100px;
 }
 
-.dijous{
-    width:100px ;
-    height:40px;
+.patifl {
+    height: 25px;
+    width: 508px;
+
 }
 
-.divendres{
-    width:100px ;
-    height:40px;
+.clases {
+    display: flex;
+    flex-direction: row;
 }

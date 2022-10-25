@@ -56,289 +56,55 @@ table td {
     border: 1px solid wheat
 }
 
-
-.flexbox {
-    border: 1px solid black;
-    padding: 20px;
+.flex{
     display: flex;
-    width: 610px;
-    height: 400px;
-    background-color: white;
-    flex-wrap: wrap;
-    margin: 3px;
-    justify-content: space-between;
 }
 
-.titol {
-    border: 1px solid black;
-    line-height: 50px;
-    width: 99px;
-    height: 71px;
-    text-align: center;
-}
-
-.titol2 {
-    line-height: 10px;
-    width: 504px;
-    height: 35px;
+.border{
     border: 1px solid black;
 }
 
-.dilluns {
-    border: 1px solid black;
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
-  
+.flexbox{
+    width:640px;
+    height:420px ;
 }
 
-.dimarts {
-    border: 1px solid black;
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
- 
+.titol{
+    width:120px;
+    height:80px;
 }
 
-.dimecres {
-    border: 1px solid black;
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
+.cap{
+    width:520px;
+    height:80px;
 }
-
-.dijous {
-    border: 1px solid black;
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
-}
-
-.divendres {
-    border: 1px solid black;
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
- 
-}
-
-.horafl {
-    border: 1px solid black;
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
-  
-}
-
-.primera {
-  
-}
-
-.segunda {
- 
-}
-
-.tercera {
- 
-}
-
-.quarta {
+.titol2{
+    width:520px ;
+    height:40px;
     
 }
 
-.quinta {
-    
+.dilluns{
+    width:100px ;
+    height:40px;
 }
 
-.sexta {
-
+.dimarts{
+    width:100px ;
+    height:40px;
 }
 
-.prpati {
-
+.dimecres{
+    width:100px ;
+    height:40px;
 }
 
-.sepati {
-
+.dijous{
+    width:100px ;
+    height:40px;
 }
 
-.phoral {
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
- 
+.divendres{
+    width:100px ;
+    height:40px;
 }
-
-.shoral {
-  
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
- 
-}
-
-.thoral {
-   
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
-    text-align: center;
- 
-}
-
-.qhoral {
-   
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
-    text-align: center;
-  
-}
-
-
-.phoram {
-
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
- 
-}
-
-
-.shoram {
-   
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
- 
-}
-
-.thoram {
-    
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
-
-}
-
-.phorami {
-   
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
-  
-}
-
-
-.shorami {
-
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
-   
-}
-
-.thorami {
- 
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
-    
-}
-
-.phoraj {
- 
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
-
-}
-
-.qhoraj {
-
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
-  
-}
-
-.thoraj {
-  
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
-    text-align: center;
-
-}
-
-.shoraj {
- 
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
-    text-align: center;
-   
-}
-
-.phorav {
- 
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
-  
-}
-
-.qhorav {
-
-    width: 100px;
-    height: 71px;
-    line-height: 30px;
-    text-align: center;
-  
-}
-
-.thorav {
-  
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
-    text-align: center;
-   
-}
-
-.shorav {
- 
-    width: 100px;
-    height: 35px;
-    line-height: 10px;
-    text-align: center;
-   
-}
-
-.patifl{
-    text-align: center;
-    border: 1px solid black;
-    width: 504px;
-    height: 35px;
-  
-}
-
-.patifl2{
-    text-align: center;
-    border: 1px solid black;
-    width: 504px;
-    height: 35px;
-   
-}
-
